@@ -1,0 +1,6 @@
+Flask==2.3.3
+openai==0.28.0
+langchain
+typing
+google-search-results
+
