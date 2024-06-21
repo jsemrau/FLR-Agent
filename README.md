@@ -1,7 +1,7 @@
 <H2> Langchain-based Front Line Recruiter Agent </H2>
 <H4> because we all want a new job at some point </H4>
 
-Note for non-coders: you can follow my [newsletter](https://jdsemrau.substak.com)
+Note for non-coders: you can follow my [newsletter](https://jdsemrau.substack.com)
 
 # Front Line Recruiter 🌐
 
